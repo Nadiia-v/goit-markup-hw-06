@@ -58,7 +58,7 @@ img {
         max-width: 768px;
     }
 }
-@media screen and (min-width: 1440px) {
+@media screen and (min-width: 1158px) {
     .container {
         max-width: 1158px;
     
@@ -195,7 +195,7 @@ img {
 
   }
 
-  @media screen and (min-width: 1440px) {
+  @media screen and (min-width: 1158px) {
     .address-list {
         display: flex;
         gap: 40px;
@@ -306,7 +306,7 @@ img {
     }
   }
 
-  @media screen and (min-width: 1440px) {
+  @media screen and (min-width: 1158px) {
     .upper-section {
         padding: 188px 0;
         background-image: linear-gradient(
@@ -320,7 +320,7 @@ img {
       
   }
 
-  @media creen and (min-width: 1440px) and (min-resolution: 192dpi) {
+  @media creen and (min-width: 1158px) and (min-resolution: 192dpi) {
     .upper-section {
         background-image: linear-gradient(
             rgba(46, 47, 66, 0.7),
@@ -385,7 +385,7 @@ img {
       }
   } 
 
-  @media screen and (min-width: 1440px) {
+  @media screen and (min-width: 1158px) {
     .list {
         display: flex;
         flex-direction: row;
@@ -519,7 +519,7 @@ img {
       }
   }
 
-  @media screen and (min-width: 1440px) {
+  @media screen and (min-width: 1158px) {
     .team-list {
         
         flex-wrap: nowrap;
@@ -629,7 +629,7 @@ img {
       }
   }
 
-  @media screen and (min-width: 1440px) {
+  @media screen and (min-width: 1158px) {
     .portfolio-list-item {
         width: 360px;
       }
@@ -839,7 +839,7 @@ img {
         align-items: flex-start;
       }
   }
-  @media screen and (min-width: 1440px) {
+  @media screen and (min-width: 1158px) {
     .page-footer {
         padding: 100px 0;
       }
